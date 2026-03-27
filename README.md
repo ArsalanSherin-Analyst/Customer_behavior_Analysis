@@ -3,7 +3,7 @@ Data Analytics project, showcasing customer behavior analysis using python, sql 
 
  🛍️ **Customer Behavior Data Analytics Project**
 
- 📌** Overview**
+ 📌**Overview**
 
 This project focuses on analyzing customer shopping behavior to uncover meaningful insights that can support business decision-making. The workflow includes data loading, exploratory data analysis (EDA), data cleaning, querying with SQL, and building an interactive dashboard.
 
