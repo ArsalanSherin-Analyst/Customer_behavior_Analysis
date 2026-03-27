@@ -104,8 +104,10 @@ This project demonstrates an end-to-end data analytics workflow, combining Pytho
 Feel free to fork this repository and contribute by adding new analyses, improving visualizations, or optimizing queries.
 
 ---
-**Dashboard Image**
-Customer behavior Dashboard.png
+**Dashboard Image**:
+
+https://github.com/ArsalanSherin-Analyst/Customer_behavior_Analysis/blob/main/Customer%20behavior%20Dashboard.png
+
 
 
 For any questions or collaboration opportunities, feel free to reach out.
