@@ -104,7 +104,8 @@ This project demonstrates an end-to-end data analytics workflow, combining Pytho
 Feel free to fork this repository and contribute by adding new analyses, improving visualizations, or optimizing queries.
 
 ---
-
+**Dashboard Image**
+Customer behavior Dashboard.png
 
 
 For any questions or collaboration opportunities, feel free to reach out.
