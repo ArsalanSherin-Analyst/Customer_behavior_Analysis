@@ -106,7 +106,7 @@ Feel free to fork this repository and contribute by adding new analyses, improvi
 ---
 **Dashboard Image**:
 
-https://github.com/ArsalanSherin-Analyst/Customer_behavior_Analysis/blob/main/Customer%20behavior%20Dashboard.png
+[https://github.com/ArsalanSherin-Analyst/Customer_behavior_Analysis/blob/main/Dashboard%20Screenshot.png]
 
 
 
